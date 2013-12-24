@@ -11,10 +11,15 @@ TO THINK ABOUT THE BIG PICTURE OF DE-EIG:
 LIST OF FUNCTIONS:
 
 Entry point of the program:		DE-EIG.cpp
-Test function:					ellipsoidalrot.cpp
-DE/rand/1/bin:					derand1bin.cpp
-DE/rand/1/eig:					derand1eig.cpp
-Binomial crossover:				bincrossover.cpp
-EIG crossover:					eigcrossover.cpp
-Mixed bin and EIG crossover:	mixcrossover.cpp
-Overall crossover:				xover.cpp
+Test function:				ellipsoidalrot.cpp
+DE/rand/1/bin:				derand1bin.cpp
+DE/rand/1/eig:				derand1eig.cpp
+Binomial crossover:			bincrossover.cpp
+EIG crossover:				eigcrossover.cpp
+Mixed bin and EIG crossover:		mixcrossover.cpp
+Overall crossover:			xover.cpp
+
+DEVELOPMENT ENVIRONMENT:
+
+Microsoft Visual Studio 2010
+ver. 10.0.40219.1 SP1Rel
