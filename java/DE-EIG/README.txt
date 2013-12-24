@@ -10,11 +10,16 @@ TO THINK ABOUT THE BIG PICTURE OF DE-EIG:
 
 LIST OF FUNCTIONS:
 
-Entry point of the program:		DEEIG.java
-Test function:					Ellipsoidalrot.java
-DE/rand/1/bin:					Derand1bin.java
-DE/rand/1/eig:					Derand1eig.java
-Binomial crossover:				Bincrossover.java
-EIG crossover:					Eigcrossover.java
-Mixed bin and EIG crossover:	Mixcrossover.java
-Overall crossover:				Xover.java
+Entry point of the program:     DEEIG.java
+Test function:                  Ellipsoidalrot.java
+DE/rand/1/bin:                  Derand1bin.java
+DE/rand/1/eig:                  Derand1eig.java
+Binomial crossover:             Bincrossover.java
+EIG crossover:                  Eigcrossover.java
+Mixed bin and EIG crossover:    Mixcrossover.java
+Overall crossover:              Xover.java
+
+DEVELOPMENT ENVIRONMENT:
+
+JavaSE-1.7
+Note that you need lib/commons-math3-3.2.jar in path.
